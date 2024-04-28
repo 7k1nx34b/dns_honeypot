@@ -1,0 +1,159 @@
+2024-04-28 03:18:23 UTC - INFO:src: 127.0.0.1:62138 raw bytes: [
+    107,
+    251,
+    1,
+    32,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    8,
+    100,
+    99,
+    105,
+    110,
+    115,
+    105,
+    100,
+    101,
+    3,
+    99,
+    111,
+    109,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    41,
+    16,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+]
+2024-04-28 03:19:09 UTC - INFO:src: 127.0.0.1:62351 raw bytes: [
+    9,
+    187,
+    1,
+    32,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    8,
+    100,
+    99,
+    105,
+    110,
+    115,
+    105,
+    100,
+    101,
+    3,
+    99,
+    111,
+    109,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    41,
+    16,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+]
+2024-04-28 03:19:53 UTC - INFO:src: 127.0.0.1:54060 raw bytes: [
+    210,
+    225,
+    1,
+    32,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    8,
+    100,
+    99,
+    105,
+    110,
+    115,
+    105,
+    100,
+    101,
+    3,
+    99,
+    111,
+    109,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    41,
+    16,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+]
+2024-04-28 05:26:23 UTC - INFO:127.0.0.1 dport=53344, recv=4096, send=4096
+TXT dcinside
+2024-04-28 05:27:57 UTC - INFO:127.0.0.1 dport=60676, recv=41, send=217
+TXT dcinside
+2024-04-28 05:28:03 UTC - INFO:127.0.0.1 dport=55432, recv=41, send=57
+A dcinside
+2024-04-28 05:30:28 UTC - INFO: 127.0.0.1 dport=50313, recv=41, send=57
+A dcinside.com
+2024-04-28 05:32:32 UTC - INFO: 127.0.0.1 dport=63365, recv=41, send=57
+A dcinside.com amplification: 0
+2024-04-28 05:32:49 UTC - INFO: 127.0.0.1 dport=60118, recv=41, send=57
+A dcinside.com amplification: 0
+2024-04-28 05:32:56 UTC - INFO: 127.0.0.1 dport=65502, recv=41, send=217
+TXT dcinside.com amplification: 0
+2024-04-28 05:33:51 UTC - INFO: 127.0.0.1 dport=50596, recv=41, send=217
+TXT dcinside.com amplification: 0
+2024-04-28 05:34:08 UTC - INFO: 127.0.0.1 dport=49766, recv=41, send=217
+TXT dcinside.com amplification: 5
+2024-04-28 05:35:11 UTC - INFO: 127.0.0.1 dport=55711, recv=41, send=217
+TXT dcinside.com amplification: 5
+2024-04-28 05:36:21 UTC - INFO: 127.0.0.1 dport=62583, recv=41, send=217
+TXT dcinside.com amplification: 5.293
+2024-04-28 05:36:51 UTC - INFO: 127.0.0.1 dport=57771, recv=41, send=217
+TXT dcinside.com Amplification: 5.293%
+2024-04-28 05:36:59 UTC - INFO: 127.0.0.1 dport=57693, recv=41, send=57
+A dcinside.com Amplification: 1.390%
+2024-04-28 05:39:24 UTC - INFO: 127.0.0.1 dport=61463, recv=41, send=57
+A dcinside.com || Amplification: 1.390%
+2024-04-28 05:39:26 UTC - INFO: 127.0.0.1 dport=63846, recv=41, send=217
+TXT dcinside.com || Amplification: 5.293%
